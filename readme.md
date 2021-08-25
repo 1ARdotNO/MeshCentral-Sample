@@ -3,6 +3,7 @@
 *Released: 2019-11-23*
 
 Sample plugin for the [MeshCentral2](https://github.com/Ylianst/MeshCentral) Project.
+Based on the sample from https://github.com/ryanblenis/MeshCentral-Sample
 
 ## Installation
 
