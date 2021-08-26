@@ -3,7 +3,7 @@
   "shortName": "sample",
   "version": "0.0.1",
   "author": "Einar Stenberg",
-  "description": "A sample plugin. Prompt for note on remote desktop disconnect.",
+  "description": "A sample plugin for test. Prompt for note on remote desktop disconnect.",
   "hasAdminPanel": false,
   "homepage": "https://github.com/OvrAp3x/MeshCentral-Sample",
   "changelogUrl": "https://raw.githubusercontent.com/OvrAp3x/MeshCentral-Sample/master/changelog.md",
